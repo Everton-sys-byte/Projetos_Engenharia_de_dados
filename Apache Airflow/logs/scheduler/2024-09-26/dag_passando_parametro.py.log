@@ -1,0 +1,70 @@
+[2024-09-26T11:39:11.436+0000] {processor.py:186} INFO - Started process (PID=50) to work on /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:39:11.437+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_passando_parametro.py for tasks to queue
+[2024-09-26T11:39:11.439+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:39:11.438+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:39:11.452+0000] {processor.py:925} INFO - DAG(s) 'DAG_With_Python_Operator_Return_Data' retrieved from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:39:11.473+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:39:11.472+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-26T11:39:11.492+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:39:11.492+0000] {dag.py:4156} INFO - Setting next_dagrun for DAG_With_Python_Operator_Return_Data to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-26T11:39:11.505+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_passando_parametro.py took 0.073 seconds
+[2024-09-26T11:40:06.037+0000] {processor.py:186} INFO - Started process (PID=61) to work on /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:40:06.040+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_passando_parametro.py for tasks to queue
+[2024-09-26T11:40:06.041+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:40:06.041+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:40:06.048+0000] {processor.py:925} INFO - DAG(s) 'DAG_With_Python_Operator_Return_Data' retrieved from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:40:06.063+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:40:06.063+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-26T11:40:06.078+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:40:06.078+0000] {dag.py:4156} INFO - Setting next_dagrun for DAG_With_Python_Operator_Return_Data to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-26T11:40:06.270+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_passando_parametro.py took 0.236 seconds
+[2024-09-26T11:40:36.485+0000] {processor.py:186} INFO - Started process (PID=72) to work on /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:40:36.485+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_passando_parametro.py for tasks to queue
+[2024-09-26T11:40:36.486+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:40:36.486+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:40:36.493+0000] {processor.py:925} INFO - DAG(s) 'DAG_With_Python_Operator_Return_Data' retrieved from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:40:36.508+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:40:36.507+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-26T11:40:36.522+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:40:36.522+0000] {dag.py:4156} INFO - Setting next_dagrun for DAG_With_Python_Operator_Return_Data to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-26T11:40:36.531+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_passando_parametro.py took 0.050 seconds
+[2024-09-26T11:41:06.756+0000] {processor.py:186} INFO - Started process (PID=83) to work on /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:41:06.757+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_passando_parametro.py for tasks to queue
+[2024-09-26T11:41:06.758+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:41:06.758+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:41:06.765+0000] {processor.py:925} INFO - DAG(s) 'DAG_With_Python_Operator_Return_Data' retrieved from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:41:06.780+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:41:06.780+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-26T11:41:06.794+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:41:06.794+0000] {dag.py:4156} INFO - Setting next_dagrun for DAG_With_Python_Operator_Return_Data to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-26T11:41:06.803+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_passando_parametro.py took 0.050 seconds
+[2024-09-26T11:41:37.034+0000] {processor.py:186} INFO - Started process (PID=94) to work on /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:41:37.035+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_passando_parametro.py for tasks to queue
+[2024-09-26T11:41:37.036+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:41:37.036+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:41:37.043+0000] {processor.py:925} INFO - DAG(s) 'DAG_With_Python_Operator_Return_Data' retrieved from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:41:37.057+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:41:37.057+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-26T11:41:37.071+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:41:37.071+0000] {dag.py:4156} INFO - Setting next_dagrun for DAG_With_Python_Operator_Return_Data to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-26T11:41:37.080+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_passando_parametro.py took 0.050 seconds
+[2024-09-26T11:42:07.305+0000] {processor.py:186} INFO - Started process (PID=105) to work on /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:42:07.306+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_passando_parametro.py for tasks to queue
+[2024-09-26T11:42:07.307+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:42:07.307+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:42:07.314+0000] {processor.py:925} INFO - DAG(s) 'DAG_With_Python_Operator_Return_Data' retrieved from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:42:07.329+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:42:07.329+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-26T11:42:07.343+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:42:07.343+0000] {dag.py:4156} INFO - Setting next_dagrun for DAG_With_Python_Operator_Return_Data to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-26T11:42:07.352+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_passando_parametro.py took 0.051 seconds
+[2024-09-26T11:42:37.642+0000] {processor.py:186} INFO - Started process (PID=116) to work on /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:42:37.642+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_passando_parametro.py for tasks to queue
+[2024-09-26T11:42:37.644+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:42:37.643+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:42:37.650+0000] {processor.py:925} INFO - DAG(s) 'DAG_With_Python_Operator_Return_Data' retrieved from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:42:37.665+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:42:37.664+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-26T11:42:37.678+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:42:37.678+0000] {dag.py:4156} INFO - Setting next_dagrun for DAG_With_Python_Operator_Return_Data to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-26T11:42:37.688+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_passando_parametro.py took 0.050 seconds
+[2024-09-26T11:43:07.972+0000] {processor.py:186} INFO - Started process (PID=127) to work on /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:43:07.972+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_passando_parametro.py for tasks to queue
+[2024-09-26T11:43:07.974+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:43:07.974+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:43:07.981+0000] {processor.py:925} INFO - DAG(s) 'DAG_With_Python_Operator_Return_Data' retrieved from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:43:07.997+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:43:07.997+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-26T11:43:08.114+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:43:08.114+0000] {dag.py:4156} INFO - Setting next_dagrun for DAG_With_Python_Operator_Return_Data to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-26T11:43:08.124+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_passando_parametro.py took 0.155 seconds
+[2024-09-26T11:43:38.607+0000] {processor.py:186} INFO - Started process (PID=138) to work on /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:43:38.608+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_passando_parametro.py for tasks to queue
+[2024-09-26T11:43:38.609+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:43:38.609+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:43:38.618+0000] {processor.py:925} INFO - DAG(s) 'DAG_With_Python_Operator_Return_Data' retrieved from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:43:38.637+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:43:38.637+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-26T11:43:38.748+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:43:38.747+0000] {dag.py:4156} INFO - Setting next_dagrun for DAG_With_Python_Operator_Return_Data to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-26T11:43:38.760+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_passando_parametro.py took 0.157 seconds
+[2024-09-26T11:44:09.092+0000] {processor.py:186} INFO - Started process (PID=149) to work on /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:44:09.093+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_passando_parametro.py for tasks to queue
+[2024-09-26T11:44:09.094+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:44:09.094+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:44:09.101+0000] {processor.py:925} INFO - DAG(s) 'DAG_With_Python_Operator_Return_Data' retrieved from /opt/airflow/dags/dag_passando_parametro.py
+[2024-09-26T11:44:09.215+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:44:09.215+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-26T11:44:09.228+0000] {logging_mixin.py:190} INFO - [2024-09-26T11:44:09.228+0000] {dag.py:4156} INFO - Setting next_dagrun for DAG_With_Python_Operator_Return_Data to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-26T11:44:09.237+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_passando_parametro.py took 0.148 seconds

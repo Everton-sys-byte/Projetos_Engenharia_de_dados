@@ -1,0 +1,882 @@
+[2024-09-27T12:11:35.279+0000] {processor.py:186} INFO - Started process (PID=53) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:11:35.279+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:11:35.280+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:11:35.280+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:11:35.288+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:11:35.304+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:11:35.303+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:11:35.318+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:11:35.318+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:11:35.328+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.053 seconds
+[2024-09-27T12:12:33.198+0000] {processor.py:186} INFO - Started process (PID=64) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:12:33.202+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:12:33.204+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:12:33.204+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:12:33.211+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:12:33.226+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:12:33.226+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:12:33.240+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:12:33.240+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:12:33.257+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.062 seconds
+[2024-09-27T12:13:03.521+0000] {processor.py:186} INFO - Started process (PID=75) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:13:03.522+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:13:03.523+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:13:03.523+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:13:03.530+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:13:03.546+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:13:03.546+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:13:03.561+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:13:03.561+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:13:03.571+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.053 seconds
+[2024-09-27T12:13:33.837+0000] {processor.py:186} INFO - Started process (PID=86) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:13:33.837+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:13:33.838+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:13:33.838+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:13:33.846+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:13:33.862+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:13:33.862+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:13:33.876+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:13:33.876+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:13:33.885+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:14:04.097+0000] {processor.py:186} INFO - Started process (PID=97) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:14:04.097+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:14:04.099+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:14:04.098+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:14:04.106+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:14:04.121+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:14:04.121+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:14:04.135+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:14:04.135+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:14:04.144+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:14:34.363+0000] {processor.py:186} INFO - Started process (PID=108) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:14:34.364+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:14:34.365+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:14:34.365+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:14:34.372+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:14:34.387+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:14:34.387+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:14:34.401+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:14:34.401+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:14:34.410+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.050 seconds
+[2024-09-27T12:15:04.628+0000] {processor.py:186} INFO - Started process (PID=119) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:15:04.628+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:15:04.630+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:15:04.630+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:15:04.637+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:15:04.653+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:15:04.652+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:15:04.667+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:15:04.667+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:15:04.677+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.053 seconds
+[2024-09-27T12:15:35.093+0000] {processor.py:186} INFO - Started process (PID=130) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:15:35.094+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:15:35.095+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:15:35.095+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:15:35.103+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:15:35.118+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:15:35.118+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:15:35.235+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:15:35.234+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:15:35.243+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.153 seconds
+[2024-09-27T12:16:05.547+0000] {processor.py:186} INFO - Started process (PID=141) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:16:05.547+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:16:05.549+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:16:05.548+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:16:05.556+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:16:05.571+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:16:05.571+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:16:05.684+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:16:05.684+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:16:05.693+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.149 seconds
+[2024-09-27T12:16:35.991+0000] {processor.py:186} INFO - Started process (PID=152) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:16:35.992+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:16:35.993+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:16:35.993+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:16:36.000+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:16:36.114+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:16:36.114+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:16:36.127+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:16:36.127+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:16:36.135+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.147 seconds
+[2024-09-27T12:17:06.312+0000] {processor.py:186} INFO - Started process (PID=163) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:17:06.312+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:17:06.413+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:17:06.412+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:17:06.419+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:17:06.431+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:17:06.431+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:17:06.444+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:17:06.444+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:17:06.462+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.153 seconds
+[2024-09-27T12:17:36.732+0000] {processor.py:186} INFO - Started process (PID=174) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:17:36.733+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:17:36.735+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:17:36.734+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:17:36.742+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:17:36.756+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:17:36.756+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:17:36.771+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:17:36.770+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:17:36.780+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:18:07.048+0000] {processor.py:186} INFO - Started process (PID=185) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:18:07.048+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:18:07.049+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:18:07.049+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:18:07.056+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:18:07.072+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:18:07.071+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:18:07.086+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:18:07.086+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:18:07.095+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:18:37.310+0000] {processor.py:186} INFO - Started process (PID=196) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:18:37.310+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:18:37.312+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:18:37.311+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:18:37.319+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:18:37.334+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:18:37.334+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:18:37.349+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:18:37.348+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:18:37.357+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:19:07.636+0000] {processor.py:186} INFO - Started process (PID=207) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:19:07.637+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:19:07.638+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:19:07.638+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:19:07.645+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:19:07.661+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:19:07.661+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:19:07.675+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:19:07.675+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:19:07.684+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:19:37.896+0000] {processor.py:186} INFO - Started process (PID=218) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:19:37.896+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:19:37.898+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:19:37.898+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:19:37.905+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:19:37.920+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:19:37.920+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:19:37.934+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:19:37.934+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:19:37.943+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:20:08.156+0000] {processor.py:186} INFO - Started process (PID=229) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:20:08.157+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:20:08.158+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:20:08.158+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:20:08.166+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:20:08.181+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:20:08.181+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:20:08.195+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:20:08.195+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:20:08.204+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:20:38.426+0000] {processor.py:186} INFO - Started process (PID=240) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:20:38.427+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:20:38.428+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:20:38.428+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:20:38.435+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:20:38.450+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:20:38.450+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:20:38.464+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:20:38.464+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:20:38.474+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:21:08.688+0000] {processor.py:186} INFO - Started process (PID=251) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:21:08.688+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:21:08.690+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:21:08.690+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:21:08.697+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:21:08.712+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:21:08.712+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:21:08.727+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:21:08.727+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:21:08.736+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:21:38.956+0000] {processor.py:186} INFO - Started process (PID=262) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:21:38.957+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:21:38.958+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:21:38.958+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:21:38.966+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:21:38.981+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:21:38.981+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:21:38.996+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:21:38.995+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:21:39.005+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:22:09.213+0000] {processor.py:186} INFO - Started process (PID=273) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:22:09.214+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:22:09.215+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:22:09.215+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:22:09.223+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:22:09.238+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:22:09.238+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:22:09.252+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:22:09.252+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:22:09.261+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:22:39.485+0000] {processor.py:186} INFO - Started process (PID=284) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:22:39.486+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:22:39.488+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:22:39.488+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:22:39.495+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:22:39.511+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:22:39.511+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:22:39.525+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:22:39.525+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:22:39.546+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.064 seconds
+[2024-09-27T12:23:09.821+0000] {processor.py:186} INFO - Started process (PID=295) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:23:09.821+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:23:09.822+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:23:09.822+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:23:09.830+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:23:09.845+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:23:09.845+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:23:09.862+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:23:09.861+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:23:09.871+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.055 seconds
+[2024-09-27T12:23:40.082+0000] {processor.py:186} INFO - Started process (PID=306) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:23:40.083+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:23:40.084+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:23:40.084+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:23:40.091+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:23:40.107+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:23:40.106+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:23:40.121+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:23:40.121+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:23:40.130+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:24:10.347+0000] {processor.py:186} INFO - Started process (PID=317) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:24:10.348+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:24:10.349+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:24:10.349+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:24:10.356+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:24:10.371+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:24:10.371+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:24:10.386+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:24:10.386+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:24:10.395+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:24:40.614+0000] {processor.py:186} INFO - Started process (PID=328) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:24:40.614+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:24:40.615+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:24:40.615+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:24:40.623+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:24:40.638+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:24:40.638+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:24:40.652+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:24:40.652+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:24:40.661+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:25:10.890+0000] {processor.py:186} INFO - Started process (PID=339) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:25:10.891+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:25:10.892+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:25:10.892+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:25:10.899+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:25:10.915+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:25:10.914+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:25:10.929+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:25:10.929+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:25:10.938+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:25:41.154+0000] {processor.py:186} INFO - Started process (PID=350) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:25:41.155+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:25:41.156+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:25:41.156+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:25:41.163+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:25:41.180+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:25:41.179+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:25:41.194+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:25:41.194+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:25:41.203+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.053 seconds
+[2024-09-27T12:26:11.420+0000] {processor.py:186} INFO - Started process (PID=361) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:26:11.421+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:26:11.422+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:26:11.422+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:26:11.429+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:26:11.445+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:26:11.445+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:26:11.459+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:26:11.459+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:26:11.469+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.053 seconds
+[2024-09-27T12:26:41.764+0000] {processor.py:186} INFO - Started process (PID=372) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:26:41.764+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:26:41.766+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:26:41.765+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:26:41.773+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:26:41.788+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:26:41.788+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:26:41.803+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:26:41.803+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:26:41.812+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:27:12.044+0000] {processor.py:186} INFO - Started process (PID=383) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:27:12.044+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:27:12.046+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:27:12.046+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:27:12.053+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:27:12.069+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:27:12.069+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:27:12.083+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:27:12.083+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:27:12.092+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:27:42.371+0000] {processor.py:186} INFO - Started process (PID=394) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:27:42.371+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:27:42.373+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:27:42.373+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:27:42.380+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:27:42.395+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:27:42.395+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:27:42.409+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:27:42.409+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:27:42.418+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:28:12.634+0000] {processor.py:186} INFO - Started process (PID=405) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:28:12.635+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:28:12.636+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:28:12.636+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:28:12.643+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:28:12.659+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:28:12.659+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:28:12.673+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:28:12.673+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:28:12.682+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:28:42.899+0000] {processor.py:186} INFO - Started process (PID=416) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:28:42.899+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:28:42.900+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:28:42.900+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:28:42.908+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:28:42.923+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:28:42.923+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:28:42.938+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:28:42.937+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:28:42.947+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:29:13.178+0000] {processor.py:186} INFO - Started process (PID=427) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:29:13.179+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:29:13.180+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:29:13.180+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:29:13.188+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:29:13.203+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:29:13.203+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:29:13.217+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:29:13.217+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:29:13.226+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:29:43.511+0000] {processor.py:186} INFO - Started process (PID=438) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:29:43.511+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:29:43.513+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:29:43.512+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:29:43.520+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:29:43.535+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:29:43.535+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:29:43.550+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:29:43.550+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:29:43.558+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:30:13.776+0000] {processor.py:186} INFO - Started process (PID=449) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:30:13.776+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:30:13.778+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:30:13.778+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:30:13.785+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:30:13.800+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:30:13.800+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:30:13.815+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:30:13.814+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:30:13.824+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:30:44.038+0000] {processor.py:186} INFO - Started process (PID=460) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:30:44.038+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:30:44.040+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:30:44.040+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:30:44.047+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:30:44.062+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:30:44.062+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:30:44.077+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:30:44.077+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:30:44.086+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:31:14.297+0000] {processor.py:186} INFO - Started process (PID=471) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:31:14.297+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:31:14.298+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:31:14.298+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:31:14.306+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:31:14.321+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:31:14.321+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:31:14.335+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:31:14.335+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:31:14.344+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:31:44.573+0000] {processor.py:186} INFO - Started process (PID=482) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:31:44.574+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:31:44.575+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:31:44.575+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:31:44.583+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:31:44.598+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:31:44.598+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:31:44.613+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:31:44.612+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:31:44.621+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:32:14.845+0000] {processor.py:186} INFO - Started process (PID=493) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:32:14.845+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:32:14.847+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:32:14.847+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:32:14.854+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:32:14.869+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:32:14.869+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:32:14.884+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:32:14.884+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:32:14.893+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:32:45.104+0000] {processor.py:186} INFO - Started process (PID=504) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:32:45.104+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:32:45.106+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:32:45.106+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:32:45.113+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:32:45.128+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:32:45.128+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:32:45.142+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:32:45.142+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:32:45.151+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:33:15.363+0000] {processor.py:186} INFO - Started process (PID=515) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:33:15.363+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:33:15.365+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:33:15.364+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:33:15.372+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:33:15.387+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:33:15.387+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:33:15.401+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:33:15.401+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:33:15.410+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:33:45.620+0000] {processor.py:186} INFO - Started process (PID=526) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:33:45.621+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:33:45.622+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:33:45.622+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:33:45.629+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:33:45.645+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:33:45.644+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:33:45.659+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:33:45.659+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:33:45.668+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:34:15.883+0000] {processor.py:186} INFO - Started process (PID=537) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:34:15.883+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:34:15.885+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:34:15.884+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:34:15.892+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:34:15.907+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:34:15.907+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:34:15.921+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:34:15.921+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:34:15.931+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:34:46.141+0000] {processor.py:186} INFO - Started process (PID=548) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:34:46.141+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:34:46.143+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:34:46.142+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:34:46.150+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:34:46.165+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:34:46.165+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:34:46.180+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:34:46.180+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:34:46.189+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:35:16.408+0000] {processor.py:186} INFO - Started process (PID=559) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:35:16.409+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:35:16.410+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:35:16.410+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:35:16.417+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:35:16.432+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:35:16.432+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:35:16.447+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:35:16.447+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:35:16.456+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:35:46.666+0000] {processor.py:186} INFO - Started process (PID=570) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:35:46.666+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:35:46.668+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:35:46.668+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:35:46.675+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:35:46.690+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:35:46.690+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:35:46.704+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:35:46.704+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:35:46.714+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:36:16.991+0000] {processor.py:186} INFO - Started process (PID=581) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:36:16.992+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:36:16.993+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:36:16.993+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:36:17.000+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:36:17.015+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:36:17.015+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:36:17.029+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:36:17.029+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:36:17.038+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:36:47.253+0000] {processor.py:186} INFO - Started process (PID=592) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:36:47.254+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:36:47.255+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:36:47.255+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:36:47.263+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:36:47.278+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:36:47.278+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:36:47.292+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:36:47.292+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:36:47.301+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:37:17.514+0000] {processor.py:186} INFO - Started process (PID=603) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:37:17.515+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:37:17.517+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:37:17.517+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:37:17.524+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:37:17.539+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:37:17.539+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:37:17.554+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:37:17.554+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:37:17.563+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:37:47.842+0000] {processor.py:186} INFO - Started process (PID=614) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:37:47.843+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:37:47.844+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:37:47.844+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:37:47.851+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:37:47.866+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:37:47.866+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:37:47.880+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:37:47.880+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:37:48.006+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.167 seconds
+[2024-09-27T12:38:18.333+0000] {processor.py:186} INFO - Started process (PID=625) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:38:18.334+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:38:18.335+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:38:18.335+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:38:18.342+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:38:18.357+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:38:18.357+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:38:18.371+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:38:18.371+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:38:18.463+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.133 seconds
+[2024-09-27T12:38:48.738+0000] {processor.py:186} INFO - Started process (PID=636) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:38:48.739+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:38:48.740+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:38:48.740+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:38:48.747+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:38:48.762+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:38:48.762+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:38:48.776+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:38:48.776+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:38:48.785+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:39:19.065+0000] {processor.py:186} INFO - Started process (PID=647) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:39:19.066+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:39:19.067+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:39:19.067+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:39:19.075+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:39:19.090+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:39:19.090+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:39:19.104+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:39:19.104+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:39:19.113+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:39:49.332+0000] {processor.py:186} INFO - Started process (PID=658) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:39:49.332+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:39:49.334+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:39:49.334+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:39:49.341+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:39:49.356+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:39:49.356+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:39:49.370+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:39:49.370+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:39:49.379+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:40:19.596+0000] {processor.py:186} INFO - Started process (PID=669) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:40:19.596+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:40:19.599+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:40:19.598+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:40:19.608+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:40:19.623+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:40:19.623+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:40:19.638+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:40:19.638+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:40:19.646+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.054 seconds
+[2024-09-27T12:40:49.862+0000] {processor.py:186} INFO - Started process (PID=680) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:40:49.863+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:40:49.864+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:40:49.864+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:40:49.871+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:40:49.887+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:40:49.887+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:40:49.901+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:40:49.901+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:40:49.910+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:41:20.130+0000] {processor.py:186} INFO - Started process (PID=691) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:41:20.131+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:41:20.132+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:41:20.132+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:41:20.139+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:41:20.155+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:41:20.155+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:41:20.169+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:41:20.169+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:41:20.178+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:41:50.466+0000] {processor.py:186} INFO - Started process (PID=702) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:41:50.466+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:41:50.468+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:41:50.468+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:41:50.475+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:41:50.491+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:41:50.490+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:41:50.505+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:41:50.504+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:41:50.513+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:42:20.739+0000] {processor.py:186} INFO - Started process (PID=713) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:42:20.740+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:42:20.741+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:42:20.741+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:42:20.749+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:42:20.764+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:42:20.764+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:42:20.778+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:42:20.778+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:42:20.787+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:42:51.002+0000] {processor.py:186} INFO - Started process (PID=724) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:42:51.002+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:42:51.003+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:42:51.003+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:42:51.010+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:42:51.025+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:42:51.025+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:42:51.040+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:42:51.040+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:42:51.049+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:43:21.265+0000] {processor.py:186} INFO - Started process (PID=735) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:43:21.266+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:43:21.267+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:43:21.267+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:43:21.274+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:43:21.290+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:43:21.289+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:43:21.304+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:43:21.304+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:43:21.313+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:43:51.526+0000] {processor.py:186} INFO - Started process (PID=746) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:43:51.527+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:43:51.528+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:43:51.528+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:43:51.535+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:43:51.551+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:43:51.550+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:43:51.565+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:43:51.565+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:43:51.574+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:44:21.795+0000] {processor.py:186} INFO - Started process (PID=757) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:44:21.795+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:44:21.797+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:44:21.796+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:44:21.804+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:44:21.819+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:44:21.819+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:44:21.833+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:44:21.833+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:44:21.842+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:44:52.066+0000] {processor.py:186} INFO - Started process (PID=768) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:44:52.066+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:44:52.068+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:44:52.067+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:44:52.075+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:44:52.090+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:44:52.090+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:44:52.104+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:44:52.104+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:44:52.113+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:45:22.334+0000] {processor.py:186} INFO - Started process (PID=779) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:45:22.335+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:45:22.337+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:45:22.337+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:45:22.344+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:45:22.359+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:45:22.359+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:45:22.373+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:45:22.373+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:45:22.382+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:45:52.597+0000] {processor.py:186} INFO - Started process (PID=790) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:45:52.598+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:45:52.599+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:45:52.599+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:45:52.606+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:45:52.621+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:45:52.621+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:45:52.636+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:45:52.635+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:45:52.644+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:46:22.865+0000] {processor.py:186} INFO - Started process (PID=801) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:46:22.866+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:46:22.867+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:46:22.867+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:46:22.874+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:46:22.890+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:46:22.889+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:46:22.904+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:46:22.904+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:46:22.913+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:46:53.145+0000] {processor.py:186} INFO - Started process (PID=812) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:46:53.146+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:46:53.147+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:46:53.147+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:46:53.154+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:46:53.170+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:46:53.170+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:46:53.185+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:46:53.184+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:46:53.194+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:47:23.416+0000] {processor.py:186} INFO - Started process (PID=823) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:47:23.416+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:47:23.418+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:47:23.418+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:47:23.425+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:47:23.440+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:47:23.440+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:47:23.454+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:47:23.454+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:47:23.463+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.050 seconds
+[2024-09-27T12:47:53.739+0000] {processor.py:186} INFO - Started process (PID=834) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:47:53.740+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:47:53.741+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:47:53.741+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:47:53.749+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:47:53.768+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:47:53.768+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:47:53.787+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:47:53.786+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:47:53.796+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.061 seconds
+[2024-09-27T12:48:24.068+0000] {processor.py:186} INFO - Started process (PID=845) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:48:24.068+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:48:24.069+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:48:24.069+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:48:24.077+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:48:24.092+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:48:24.092+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:48:24.106+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:48:24.106+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:48:24.115+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:48:54.331+0000] {processor.py:186} INFO - Started process (PID=856) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:48:54.332+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:48:54.333+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:48:54.333+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:48:54.340+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:48:54.356+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:48:54.355+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:48:54.370+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:48:54.370+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:48:54.379+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:49:24.596+0000] {processor.py:186} INFO - Started process (PID=867) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:49:24.596+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:49:24.598+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:49:24.597+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:49:24.605+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:49:24.620+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:49:24.620+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:49:24.635+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:49:24.635+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:49:24.643+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:49:54.875+0000] {processor.py:186} INFO - Started process (PID=878) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:49:54.876+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:49:54.877+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:49:54.877+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:49:54.884+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:49:54.900+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:49:54.900+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:49:54.914+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:49:54.914+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:49:54.923+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:50:25.152+0000] {processor.py:186} INFO - Started process (PID=889) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:50:25.153+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:50:25.155+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:50:25.155+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:50:25.162+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:50:25.177+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:50:25.177+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:50:25.192+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:50:25.192+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:50:25.201+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:50:55.478+0000] {processor.py:186} INFO - Started process (PID=900) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:50:55.478+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:50:55.480+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:50:55.479+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:50:55.487+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:50:55.502+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:50:55.502+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:50:55.516+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:50:55.516+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:50:55.526+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:51:25.740+0000] {processor.py:186} INFO - Started process (PID=911) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:51:25.741+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:51:25.742+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:51:25.742+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:51:25.749+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:51:25.765+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:51:25.765+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:51:25.779+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:51:25.779+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:51:25.788+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:51:56.017+0000] {processor.py:186} INFO - Started process (PID=922) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:51:56.018+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:51:56.019+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:51:56.019+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:51:56.027+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:51:56.042+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:51:56.042+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:51:56.056+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:51:56.056+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:51:56.065+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:52:26.281+0000] {processor.py:186} INFO - Started process (PID=933) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:52:26.281+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:52:26.283+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:52:26.283+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:52:26.290+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:52:26.305+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:52:26.305+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:52:26.319+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:52:26.319+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:52:26.328+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:52:56.551+0000] {processor.py:186} INFO - Started process (PID=944) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:52:56.552+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:52:56.553+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:52:56.553+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:52:56.561+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:52:56.576+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:52:56.576+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:52:56.590+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:52:56.590+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:52:56.599+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:53:26.820+0000] {processor.py:186} INFO - Started process (PID=955) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:53:26.820+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:53:26.822+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:53:26.821+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:53:26.829+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:53:26.844+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:53:26.844+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:53:26.858+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:53:26.858+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:53:26.868+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:53:57.083+0000] {processor.py:186} INFO - Started process (PID=966) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:53:57.084+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:53:57.085+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:53:57.085+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:53:57.092+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:53:57.107+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:53:57.107+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:53:57.122+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:53:57.122+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:53:57.131+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:54:27.350+0000] {processor.py:186} INFO - Started process (PID=977) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:54:27.351+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:54:27.352+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:54:27.352+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:54:27.359+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:54:27.374+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:54:27.374+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:54:27.389+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:54:27.389+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:54:27.398+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:54:57.620+0000] {processor.py:186} INFO - Started process (PID=988) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:54:57.621+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:54:57.622+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:54:57.622+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:54:57.629+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:54:57.645+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:54:57.645+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:54:57.659+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:54:57.659+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:54:57.668+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:55:27.882+0000] {processor.py:186} INFO - Started process (PID=999) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:55:27.882+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:55:27.884+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:55:27.884+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:55:27.891+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:55:27.906+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:55:27.906+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:55:27.920+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:55:27.920+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:55:27.929+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:55:58.154+0000] {processor.py:186} INFO - Started process (PID=1010) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:55:58.154+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:55:58.156+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:55:58.155+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:55:58.163+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:55:58.178+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:55:58.178+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:55:58.192+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:55:58.192+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:55:58.201+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:56:28.419+0000] {processor.py:186} INFO - Started process (PID=1021) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:56:28.419+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:56:28.420+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:56:28.420+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:56:28.428+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:56:28.443+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:56:28.443+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:56:28.457+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:56:28.457+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:56:28.466+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:56:58.693+0000] {processor.py:186} INFO - Started process (PID=1032) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:56:58.694+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:56:58.695+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:56:58.695+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:56:58.702+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:56:58.718+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:56:58.718+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:56:58.732+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:56:58.732+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:56:58.741+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:57:28.955+0000] {processor.py:186} INFO - Started process (PID=1043) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:57:28.955+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:57:28.957+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:57:28.957+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:57:28.964+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:57:28.980+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:57:28.979+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:57:28.994+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:57:28.994+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:57:29.003+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T12:57:59.217+0000] {processor.py:186} INFO - Started process (PID=1054) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:57:59.218+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:57:59.219+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:57:59.219+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:57:59.226+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:57:59.241+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:57:59.241+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:57:59.255+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:57:59.255+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:57:59.264+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.050 seconds
+[2024-09-27T12:58:29.482+0000] {processor.py:186} INFO - Started process (PID=1065) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:58:29.482+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:58:29.484+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:58:29.483+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:58:29.491+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:58:29.506+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:58:29.506+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:58:29.520+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:58:29.520+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:58:29.529+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:58:59.741+0000] {processor.py:186} INFO - Started process (PID=1076) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:58:59.742+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:58:59.743+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:58:59.743+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:58:59.750+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:58:59.765+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:58:59.765+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:58:59.779+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:58:59.779+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:58:59.789+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T12:59:30.008+0000] {processor.py:186} INFO - Started process (PID=1087) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:59:30.009+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T12:59:30.010+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:59:30.010+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:59:30.018+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T12:59:30.033+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:59:30.033+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T12:59:30.048+0000] {logging_mixin.py:190} INFO - [2024-09-27T12:59:30.048+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T12:59:30.057+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T13:00:00.273+0000] {processor.py:186} INFO - Started process (PID=1098) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:00:00.274+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:00:00.276+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:00:00.275+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:00:00.283+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:00:00.298+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:00:00.298+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:00:00.312+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:00:00.312+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:00:00.321+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T13:00:30.538+0000] {processor.py:186} INFO - Started process (PID=1109) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:00:30.539+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:00:30.540+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:00:30.540+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:00:30.548+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:00:30.564+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:00:30.564+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:00:30.578+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:00:30.578+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:00:30.587+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.053 seconds
+[2024-09-27T13:01:00.794+0000] {processor.py:186} INFO - Started process (PID=1120) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:01:00.794+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:01:00.795+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:01:00.795+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:01:00.803+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:01:00.818+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:01:00.818+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:01:00.832+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:01:00.832+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:01:00.841+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T13:06:51.271+0000] {processor.py:186} INFO - Started process (PID=53) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:06:51.273+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:06:51.274+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:06:51.274+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:06:51.282+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:06:51.298+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:06:51.298+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:06:51.313+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:06:51.313+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:06:51.325+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.057 seconds
+[2024-09-27T13:07:49.118+0000] {processor.py:186} INFO - Started process (PID=64) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:07:49.119+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:07:49.121+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:07:49.120+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:07:49.130+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:07:49.149+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:07:49.148+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:07:49.169+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:07:49.169+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:07:49.195+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.082 seconds
+[2024-09-27T13:08:19.479+0000] {processor.py:186} INFO - Started process (PID=75) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:08:19.480+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:08:19.481+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:08:19.481+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:08:19.488+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:08:19.504+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:08:19.504+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:08:19.519+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:08:19.518+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:08:19.527+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T13:08:49.804+0000] {processor.py:186} INFO - Started process (PID=86) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:08:49.804+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:08:49.805+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:08:49.805+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:08:49.813+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:08:49.828+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:08:49.828+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:08:49.842+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:08:49.842+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:08:49.851+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T13:09:20.078+0000] {processor.py:186} INFO - Started process (PID=97) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:09:20.079+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:09:20.080+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:09:20.080+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:09:20.088+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:09:20.104+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:09:20.104+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:09:20.118+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:09:20.118+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:09:20.127+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.053 seconds
+[2024-09-27T13:09:50.369+0000] {processor.py:186} INFO - Started process (PID=108) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:09:50.369+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:09:50.371+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:09:50.370+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:09:50.378+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:09:50.393+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:09:50.393+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:09:50.407+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:09:50.407+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:09:50.417+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.051 seconds
+[2024-09-27T13:10:20.660+0000] {processor.py:186} INFO - Started process (PID=119) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:10:20.661+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:10:20.662+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:10:20.662+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:10:20.669+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:10:20.684+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:10:20.684+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:10:20.699+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:10:20.698+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:10:20.708+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T13:10:51.192+0000] {processor.py:186} INFO - Started process (PID=130) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:10:51.192+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:10:51.193+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:10:51.193+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:10:51.200+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:10:51.216+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:10:51.216+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:10:51.330+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:10:51.329+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:10:51.338+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.150 seconds
+[2024-09-27T13:11:21.656+0000] {processor.py:186} INFO - Started process (PID=141) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:11:21.656+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:11:21.658+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:11:21.657+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:11:21.665+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:11:21.680+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:11:21.680+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:11:21.791+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:11:21.791+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:11:21.799+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.147 seconds
+[2024-09-27T13:11:52.290+0000] {processor.py:186} INFO - Started process (PID=152) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:11:52.291+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:11:52.292+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:11:52.292+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:11:52.300+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:11:52.414+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:11:52.414+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:11:52.427+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:11:52.427+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:11:52.436+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.149 seconds
+[2024-09-27T13:12:22.760+0000] {processor.py:186} INFO - Started process (PID=163) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:12:22.760+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:12:22.861+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:12:22.861+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:12:22.867+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:12:22.880+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:12:22.879+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:12:22.892+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:12:22.892+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:12:22.901+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.144 seconds
+[2024-09-27T13:12:53.046+0000] {processor.py:186} INFO - Started process (PID=174) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:12:53.046+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:12:53.048+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:12:53.048+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:12:53.055+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:12:53.071+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:12:53.071+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:12:53.085+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:12:53.085+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:12:53.095+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T13:13:23.343+0000] {processor.py:186} INFO - Started process (PID=185) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:13:23.343+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:13:23.345+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:13:23.345+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:13:23.352+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:13:23.369+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:13:23.369+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:13:23.385+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:13:23.385+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:13:23.395+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.056 seconds
+[2024-09-27T13:13:53.693+0000] {processor.py:186} INFO - Started process (PID=196) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:13:53.693+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:13:53.695+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:13:53.695+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:13:53.703+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:13:53.726+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:13:53.726+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:13:53.742+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:13:53.742+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:13:53.751+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.064 seconds
+[2024-09-27T13:14:24.024+0000] {processor.py:186} INFO - Started process (PID=207) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:14:24.024+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:14:24.026+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:14:24.026+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:14:24.033+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:14:24.049+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:14:24.049+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:14:24.063+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:14:24.063+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:14:24.072+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T13:14:54.289+0000] {processor.py:186} INFO - Started process (PID=218) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:14:54.289+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:14:54.291+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:14:54.291+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:14:54.298+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:14:54.314+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:14:54.314+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:14:54.328+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:14:54.328+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:14:54.337+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T13:15:24.606+0000] {processor.py:186} INFO - Started process (PID=229) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:15:24.607+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:15:24.608+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:15:24.608+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:15:24.616+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:15:24.632+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:15:24.632+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:15:24.647+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:15:24.647+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:15:24.656+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.054 seconds
+[2024-09-27T13:15:54.863+0000] {processor.py:186} INFO - Started process (PID=240) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:15:54.863+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:15:54.865+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:15:54.864+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:15:54.872+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:15:54.888+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:15:54.888+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:15:54.903+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:15:54.903+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:15:54.914+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.055 seconds
+[2024-09-27T13:16:25.117+0000] {processor.py:186} INFO - Started process (PID=251) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:16:25.118+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:16:25.119+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:16:25.119+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:16:25.127+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:16:25.143+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:16:25.142+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:16:25.157+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:16:25.157+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:16:25.166+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.052 seconds
+[2024-09-27T13:16:55.440+0000] {processor.py:186} INFO - Started process (PID=262) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:16:55.440+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:16:55.442+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:16:55.442+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:16:55.450+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:16:55.466+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:16:55.466+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:16:55.481+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:16:55.481+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:16:55.490+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.054 seconds
+[2024-09-27T13:17:25.699+0000] {processor.py:186} INFO - Started process (PID=273) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:17:25.700+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:17:25.702+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:17:25.701+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:17:25.709+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:17:25.725+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:17:25.725+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:17:25.740+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:17:25.740+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:17:25.749+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.053 seconds
+[2024-09-27T13:17:55.948+0000] {processor.py:186} INFO - Started process (PID=284) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:17:55.948+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:17:55.950+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:17:55.949+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:17:55.957+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:17:55.973+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:17:55.973+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:17:55.988+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:17:55.987+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:17:55.997+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.053 seconds
+[2024-09-27T13:18:26.204+0000] {processor.py:186} INFO - Started process (PID=295) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:18:26.204+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:18:26.206+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:18:26.206+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:18:26.213+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:18:26.230+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:18:26.229+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:18:26.246+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:18:26.246+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:18:26.256+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.056 seconds
+[2024-09-27T13:28:13.390+0000] {processor.py:186} INFO - Started process (PID=59) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:28:13.392+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:28:13.393+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:28:13.393+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:28:13.402+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:28:13.425+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:28:13.425+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:28:13.445+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:28:13.445+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:28:13.458+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.072 seconds
+[2024-09-27T13:28:43.694+0000] {processor.py:186} INFO - Started process (PID=70) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:28:43.694+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:28:43.696+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:28:43.695+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:28:43.703+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:28:43.720+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:28:43.720+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:28:43.736+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:28:43.736+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:28:43.761+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.072 seconds
+[2024-09-27T13:29:14.071+0000] {processor.py:186} INFO - Started process (PID=81) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:29:14.072+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:29:14.074+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:29:14.073+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:29:14.081+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:29:14.098+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:29:14.098+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:29:14.112+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:29:14.112+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:29:14.213+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.147 seconds
+[2024-09-27T13:29:44.596+0000] {processor.py:186} INFO - Started process (PID=92) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:29:44.597+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:29:44.598+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:29:44.598+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:29:44.606+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:29:44.622+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:29:44.622+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:29:44.636+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:29:44.636+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:29:44.706+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.113 seconds
+[2024-09-27T13:30:14.934+0000] {processor.py:186} INFO - Started process (PID=109) to work on /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:30:14.934+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/task_paralela.py for tasks to queue
+[2024-09-27T13:30:14.936+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:30:14.936+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:30:14.943+0000] {processor.py:925} INFO - DAG(s) 'task_paralela' retrieved from /opt/airflow/dags/task_paralela.py
+[2024-09-27T13:30:14.958+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:30:14.958+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-27T13:30:14.973+0000] {logging_mixin.py:190} INFO - [2024-09-27T13:30:14.973+0000] {dag.py:4156} INFO - Setting next_dagrun for task_paralela to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-27T13:30:14.998+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/task_paralela.py took 0.069 seconds
